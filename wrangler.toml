@@ -1,0 +1,10 @@
+name = "flat-fog-3705"
+main = "worker.js"
+compatibility_date = "2026-08-27"
+
+[[kv_namespaces]]
+binding = "C"
+id = "0641669d9b24491a9a622aa6feaa5f68"
+
+[vars]
+U = "eefada62-c7b1-4848-9222-35bd57bb234f"
